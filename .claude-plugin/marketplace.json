@@ -1,0 +1,6 @@
+{
+  "name": "cc-prompt-queue",
+  "description": "Queue prompts with /q: each waits until Claude's current turn has fully ended, then runs as its own turn, one at a time",
+  "owner": { "name": "SeriousDev" },
+  "plugins": [{ "name": "cc-prompt-queue", "source": "./" }]
+}

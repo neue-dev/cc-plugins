@@ -1,0 +1,7 @@
+{
+  "name": "cc-prompt-queue",
+  "version": "0.1.0",
+  "description": "Queue prompts with /q: each waits until Claude's current turn has fully ended, then runs as its own turn, one at a time",
+  "types": "./types/index.d.ts",
+  "author": { "name": "SeriousDev" }
+}
